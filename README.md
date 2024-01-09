@@ -14,10 +14,10 @@
   <a href="mailto:basantadel99@gmail.com">
     <img src="https://img.shields.io/badge/gmail-5B2C6F?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
- <a href="https://www.linkedin.com/in/Basant-Adel">
+ <a href="https://www.linkedin.com/in/basant-a-307896123/">
    <img src="https://img.shields.io/badge/LinkedIn-5B2C6F?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
  </a>
- <a href="https://www.github.com/in/Basant-Adel">
+ <a href="https://github.com/Basant-Adel">
    <img src="https://img.shields.io/badge/github-5B2C6F?style=for-the-badge&logo=github" alt="GitHub Badge"/>
  </a>
  <a href="https://twitter.com/basantadel99">

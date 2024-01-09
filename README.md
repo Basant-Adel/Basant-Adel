@@ -1,12 +1,14 @@
 <div align="center">
-	<img width="70%" height="50%" src="https://github.com/Basant-Adel/Basant-Adel/blob/5e39689e9b585d68d1848dfda02e3ce19fb6939d/giphy.gif" />
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com/?font=Lemon&size=30&color=5B2C6F&center=true&vCenter=true&width=440&lines=%F0%9F%91%8B+Hey%2C+I%E2%80%99m+Basant%20Adel!%F0%9F%92%BB" /></h1>
 	<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Basant-Adel.Basant-Adel&right_color=purple"  />
 	</div>
+	<br>
+	<img width="70%" height="50%" src="https://github.com/Basant-Adel/Basant-Adel/blob/5e39689e9b585d68d1848dfda02e3ce19fb6939d/giphy.gif" />
 	<h1 align="center">Welcome to My Profile!</h1>
+	
   <b align="center">
-    Software Engineering Student@holbertonschool | @ALX_AFRICA
+    Software Engineering Student@holbertonschool | @ALX_AFRICA | Full Stack MERN Developer
   </b>
   <br><br>
   <a href="mailto:basantadel99@gmail.com">
@@ -32,7 +34,7 @@
   </a>
 	<br> <br>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Basant-Adel&theme=onedark)](https://github.com/Basant-Adel/github-profile-trophy)
 
@@ -41,7 +43,7 @@
 
  <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" /> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basant-Adel&layout=pie&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basant-Adel&layout=pie&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" /> 
 							    

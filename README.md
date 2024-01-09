@@ -1,4 +1,5 @@
 <div align="center">
+	<img width="70%" height="50%" src="https://github.com/Basant-Adel/Basant-Adel/blob/5e39689e9b585d68d1848dfda02e3ce19fb6939d/giphy.gif" />
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com/?font=Lemon&size=30&color=5B2C6F&center=true&vCenter=true&width=440&lines=%F0%9F%91%8B+Hey%2C+I%E2%80%99m+Basant%20Adel!%F0%9F%92%BB" /></h1>
 	<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Basant-Adel.Basant-Adel&right_color=purple"  />

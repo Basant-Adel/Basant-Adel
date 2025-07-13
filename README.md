@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Basant-Adel.Basant-Adel&right_color=purple"  />
 	</div>
 	<br>
-	<img width="70%" height="50%" src="https://github.com/Basant-Adel/Basant-Adel/blob/5e39689e9b585d68d1848dfda02e3ce19fb6939d/giphy.gif" />
+	<img width="70%" src="https://github.com/Basant-Adel/Basant-Adel/blob/5e39689e9b585d68d1848dfda02e3ce19fb6939d/giphy.gif" />
 	<h1 align="center">Welcome to My Profile!</h1>
 	
   <b align="center">
